@@ -31,5 +31,12 @@ relationship between each level and the level below it.
 If you have any questions, please reach out to matthew.oh@cotiss.com and ask away - 
 we're here to help!
 
+## Assessment
+
+Your project will be assessed on three key criteria:
+1. User experience
+2. Code quality
+3. User interface
+
 Good luck!
 Cotiss team.
