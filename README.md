@@ -21,7 +21,7 @@ and provides the basis for distinguishing similar types of tenders.
 This project is open ended and designed to provide a platform to show your creativity,
 coding skills and ability to interpret requirements. We have created a simple, but
 flawed search bar where users can select categories that they may be interested in.
-Your job is to improve it! Whether you start from scratch or extender our base code
+Your job is to improve it! Whether you start from scratch or extend our base code
 is entirely up to you. There is also no strict requirement on how the search bar should
 function. We want you to think of the best user experience possible :).
 
