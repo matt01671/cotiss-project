@@ -66,6 +66,7 @@ function CategorySearch() {
       });
     }, 50);
   }, []);
+
   React.useEffect(() => () => {
     clearTimeout(timeoutRef.current);
   }, []);

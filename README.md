@@ -8,7 +8,10 @@ Once that is complete, provide matt01671 and danew with access. You will have
 7 days from when you have started the project to complete it. Please send an 
 email to harry.w@cotiss.com and matthew.oh@cotiss.com once you have finished.
 
-Please ensure you use git workflow so we can track the updates you have made.
+Please ensure you use git workflow so we can track the updates you have made and
+comment any assumptions you make.
+
+We respect your time and therefore, recommend time-boxing this exercice to four hours.
 
 ## Overview
 
@@ -22,15 +25,17 @@ Please read more about the hierarchical convention here: https://www.unspsc.org/
 This project is open ended and designed to provide a platform to show your creativity,
 coding skills and ability to interpret requirements. We have created a simple, but
 flawed search bar / dropdown where users can select categories that they may be interested in.
-Your job is to improve it! Whether you start from scratch or extend our base code
-is entirely up to you. There is also no strict requirement on how the search bar should
+Your job is to improve it! There are several ways we think it can be improved, here are some
+ideas but if you have others that is great also!
+1. Improve the matching algorithm so the user input is better aligned with suggestions,
+2. Replace Semantic UI with a custom component,
+3. Convert to a nested dropdown that takes advantage of the hierarchical manner of the UNSPSC codes.
+
+There is also no strict requirement on how the search bar should
 function. We want you to think of the best user experience possible :).
 
-In short, what we hope to achieve with this componenet is to create a dropdown for users
-to select categories that are relevant to them.
-
-Hint: the codes are classified in a hierarchial manner, so there is a one-to-many 
-relationship between each level and the level below it.
+In short, what we hope to achieve with this componenet is to improve our base code
+dropdown for users to select categories that are relevant to them.
 
 If you have any questions, please reach out to matthew.oh@cotiss.com and ask away - 
 we're here to help!
