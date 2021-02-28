@@ -10,11 +10,9 @@ email to harry.w@cotiss.com and matthew.oh@cotiss.com once you have finished.
 ## Overview
 
 The United Nations Standard Products and Services Code is a global standard
-for classifying companies. Please read more about the hierarchical convention
-here: https://www.unspsc.org/.
-
-This code classification is fundamental to the classifying procurement contracts
-and provides the basis for distinguishing similar types of tenders.
+for classifying companies. This code classification is fundamental to the 
+classifying procurement contracts and provides the basis for distinguishing similar types of tenders.
+Please read more about the hierarchical convention here: https://www.unspsc.org/.
 
 ## The task
 
@@ -24,6 +22,9 @@ flawed search bar where users can select categories that they may be interested 
 Your job is to improve it! Whether you start from scratch or extend our base code
 is entirely up to you. There is also no strict requirement on how the search bar should
 function. We want you to think of the best user experience possible :).
+
+In short, what we hope to achieve with this componenet is to create a dropdown for users
+to select categories that are relevant to them.
 
 Hint: the codes are classified in a hierarchial manner, so there is a one-to-many 
 relationship between each level and the level below it.
@@ -39,4 +40,3 @@ Your project will be assessed on three key criteria:
 3. User interface
 
 Good luck!
-Cotiss team.
