@@ -1,4 +1,5 @@
 # Cotiss takehome project
+![cotiss](https://img.shields.io/badge/cotiss-restoring%20the%20balance%20of%20powers-blue.svg)
 
 ## Instructions
 
