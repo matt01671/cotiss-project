@@ -11,7 +11,7 @@ email to harry.w@cotiss.com and matthew.oh@cotiss.com once you have finished.
 Please ensure you use git workflow so we can track the updates you have made and
 comment any assumptions you make.
 
-We respect your time and therefore, recommend time-boxing this exercice to four hours.
+We respect your time and therefore, recommend time-boxing this exercice to three to four hours.
 
 ## Overview
 
