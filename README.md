@@ -8,6 +8,8 @@ Once that is complete, provide matt01671 and danew with access. You will have
 7 days from when you have started the project to complete it. Please send an 
 email to harry.w@cotiss.com and matthew.oh@cotiss.com once you have finished.
 
+Please ensure you use git workflow so we can track the updates you have made.
+
 ## Overview
 
 The United Nations Standard Products and Services Code is a global standard
