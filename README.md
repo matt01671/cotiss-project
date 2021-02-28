@@ -10,7 +10,7 @@ email to harry.w@cotiss.com and matthew.oh@cotiss.com once you have finished.
 ## Overview
 
 The United Nations Standard Products and Services Code is a global standard
-for classifying companies. This code classification is fundamental to the 
+for classifying companies and types of contracts. This code classification is fundamental to 
 classifying procurement contracts and provides the basis for distinguishing similar types of tenders.
 Please read more about the hierarchical convention here: https://www.unspsc.org/.
 
@@ -18,7 +18,7 @@ Please read more about the hierarchical convention here: https://www.unspsc.org/
 
 This project is open ended and designed to provide a platform to show your creativity,
 coding skills and ability to interpret requirements. We have created a simple, but
-flawed search bar where users can select categories that they may be interested in.
+flawed search bar / dropdown where users can select categories that they may be interested in.
 Your job is to improve it! Whether you start from scratch or extend our base code
 is entirely up to you. There is also no strict requirement on how the search bar should
 function. We want you to think of the best user experience possible :).
