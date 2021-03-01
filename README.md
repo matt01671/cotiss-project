@@ -34,9 +34,6 @@ ideas but if you have others that is great also!
 There is also no strict requirement on how the search bar should
 function. We want you to think of the best user experience possible :).
 
-In short, what we hope to achieve with this componenet is to improve our base code
-dropdown for users to select categories that are relevant to them.
-
 If you have any questions, please reach out to matthew.oh@cotiss.com and ask away - 
 we're here to help!
 
