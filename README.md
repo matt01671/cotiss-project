@@ -32,7 +32,9 @@ ideas but if you have others that is great also!
 3. Convert to a nested dropdown that takes advantage of the hierarchical manner of the UNSPSC codes.
 
 There is also no strict requirement on how the search bar should
-function. We want you to think of the best user experience possible :).
+function. We want you to think of the best user experience possible :). There are no right
+or wrong answers so don't overthink it - just state your assumptions and justification for the 
+improvements you think are best.
 
 If you have any questions, please reach out to matthew.oh@cotiss.com and ask away - 
 we're here to help!
