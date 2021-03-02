@@ -3,7 +3,7 @@
 
 ## Instructions
 
-In order to complete this project, please fork it into a private repository.
+In order to complete this project, please duplicate it into a private repository.
 Once that is complete, provide matt01671 and danew with access. You will have
 7 days from when you have started the project to complete it. Please send an 
 email to harry.w@cotiss.com and matthew.oh@cotiss.com once you have finished.
